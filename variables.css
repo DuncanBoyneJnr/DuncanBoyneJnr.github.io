@@ -5,15 +5,15 @@
   --sides-only-small: 0 var(--spacing-small);
   --full-without-spacing: calc(100% - 2 * var(--spacing-small));
 
-  --background: #f8f8f8;
-  --text-color: #222222;
-  --line-color: #e9e9e9;
-  --hint-color: #aaaaaa;
-  --element-background: white;
+  --background: #F8AAA0;
+  --text-color: #30343F;
+  --line-color: #66B2B7;
+  --hint-color: #273469;
+  --element-background: #C4CDA2; 
 
-  --primary-color: #ed7e07;
-  --secondary-color: #ba3b89;
-  --clicked-color: #7d5ba6;
+  --primary-color: #66B2B7;
+  --secondary-color: #825E6F;
+  --clicked-color: #825E6F;
 
   --mat-shadow: 0 2px 1px -1px rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 1px 3px 0 rgba(0,0,0,.12);
   --medium-slow: 0.3s;
